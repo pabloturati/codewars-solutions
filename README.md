@@ -1,4 +1,5 @@
 # CodeWars
+
 This is the GitHub repository where I save copies of the katas I've completed on codewars.com.
 
 ## About
@@ -9,12 +10,14 @@ This is the GitHub repository where I save copies of the katas I've completed on
 
 ## List of Challenges
 
-### Javascript
+#### Javascript
 
-### C
+- A Needle in the Haystack - 8 kyu
 
-### C++
+#### C
 
-### Python
+#### C++
 
-### Bash
+#### Python
+
+#### Bash
