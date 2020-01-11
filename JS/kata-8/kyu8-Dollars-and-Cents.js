@@ -1,7 +1,6 @@
 /*
 Title: Dollars and Cents
 Source: https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/javascript
-https://www.codewars.com/kata/55902c5eaa8069a5b4000083/train/python
 Language used: JS
 Level (kyu): 8
 
